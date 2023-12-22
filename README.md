@@ -10,7 +10,7 @@ This project is a simple implementation of a Data Access Object (DAO) pattern in
 
 ## Usage
 
-1. Clone the repository.
+--**Clone the repository:** 
 2. Set up a MySQL database with a table named "employees" having columns "id" (auto-increment), "name," "designation," and "salary."
 3. Update the DBConnection class with your database details (URL, username, password).
 4. Run the Main class to see a sample workflow of adding, updating, and deleting employees.
@@ -24,6 +24,6 @@ This project is a simple implementation of a Data Access Object (DAO) pattern in
 Contributions Welcome:
 Open to suggestions, bug reports, and improvements. Feel free to fork and submit pull requests!
 
-License:
+## License:
 This project is licensed under the MZOS License.
 
