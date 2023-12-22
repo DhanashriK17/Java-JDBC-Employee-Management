@@ -10,13 +10,13 @@ This project is a simple implementation of a Data Access Object (DAO) pattern in
 
 ## Usage
 
---**Clone the repository:** git clone https://github.com/yourusername/Java-JDBC-Employee-Management
+- **Clone the repository:** git clone https://github.com/yourusername/Java-JDBC-Employee-Management
 
---**Set Up MySQL Database:**
+- **Set Up MySQL Database:**
 Create a database with the name "employeedb."
 Create a table named "employees" with columns "id" (auto-increment), "name," "designation," and "salary."
 
---**Update DBConnection Class:**
+- **Update DBConnection Class:**
 Open DBConnection.java and update the database details (URL, username, password) according to your MySQL setup.
 
 - **Run the Main Class:**
@@ -28,7 +28,7 @@ Execute the Main class to see a sample workflow of adding, updating, and deletin
 - MySQL Database
 - MySQL JDBC Driver (Ensure it's in your classpath)
 
-Contributions Welcome:
+## Contributions Welcome:
 Open to suggestions, bug reports, and improvements. Feel free to fork and submit pull requests!
 
 ## License:
